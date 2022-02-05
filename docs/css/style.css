@@ -157,6 +157,8 @@ a:focus {
 .top-bar .logo {
     text-align: left;
     overflow: hidden;
+    margin-top: 5px;
+    padding-top: 3px;
 }
 
 .top-bar .logo h1 {
